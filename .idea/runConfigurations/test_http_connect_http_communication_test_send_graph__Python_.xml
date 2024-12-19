@@ -1,0 +1,18 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="test.http_connect.http_communication.test_send_graph 的 Python 测试" type="tests" factoryName="Autodetect" nameIsGenerated="true">
+    <module name="src" />
+    <option name="ENV_FILES" value="" />
+    <option name="INTERPRETER_OPTIONS" value="" />
+    <option name="PARENT_ENVS" value="true" />
+    <option name="SDK_HOME" value="" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+    <option name="IS_MODULE_SDK" value="true" />
+    <option name="ADD_CONTENT_ROOTS" value="true" />
+    <option name="ADD_SOURCE_ROOTS" value="true" />
+    <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+    <option name="_new_additionalArguments" value="&quot;\&quot;..\\\\demo_分支_环路_输出\&quot; d5bcc160-f830-11ee-93f4-db3fea7624c7 default c263f6cb-c1e3-4f04-a714-fa54b58abbca-default&quot;" />
+    <option name="_new_target" value="&quot;test.http_connect.http_communication.test_send_graph&quot;" />
+    <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    <method v="2" />
+  </configuration>
+</component>
